@@ -10,9 +10,15 @@
     "@types/node": "^16.11.26",
     "@types/react": "^17.0.39",
     "@types/react-dom": "^17.0.11",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "date-fns": "^2.28.0",
+    "history": "^5.3.0",
+    "react": "^16.13.1",
+    "react-calendar-heatmap": "^1.8.1",
+    "react-dom": "^16.13.1",
+    "react-icons": "^4.3.1",
+    "react-router-dom": "^6.2.2-pre.0",
     "react-scripts": "5.0.0",
+    "styled-components": "^5.3.3",
     "typescript": "^4.6.2",
     "web-vitals": "^2.1.4"
   },
@@ -39,5 +45,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/react-calendar-heatmap": "^1.6.3",
+    "@types/react-icons": "^3.0.0",
+    "@types/react-router-dom": "^5.3.3",
+    "@types/styled-components": "^5.1.23"
   }
 }
