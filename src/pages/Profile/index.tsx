@@ -15,7 +15,7 @@ interface Data {
 }
 
 const Profile: React.FC = () => {
-  const { username = 'devguiet' } = useParams();
+  const { username = 'devggui' } = useParams();
   const [data, setData] = useState<Data>();
 
   useEffect(() => {
