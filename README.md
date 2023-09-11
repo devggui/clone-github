@@ -1,46 +1,58 @@
-# Getting Started with Create React App
+# GITHUB CLONE
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![GitHub repo size](https://img.shields.io/github/repo-size/devggui/clone-github)
+![GitHub language count](https://img.shields.io/github/languages/count/devggui/clone-github)
+![GitHub forks](https://img.shields.io/github/forks/devggui/clone-github)
 
-## Available Scripts
 
-In the project directory, you can run:
+> Este é um clone simples da plataforma [Github](https://github.com) realizado com base num desafio proposto pela [Rocketseat](https://www.rocketseat.com.br)
 
-### `npm start`
+<div
+  style="width:100%; display:flex; align-items:center; gap:16px" 
+>
+<img src="./public/preview.png" width="100%">
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Detalhes do aplicativo
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- O desafio foi proposto para aprimorar os conhecimentos técnicos com frontend e backend, realizado um clone da plataforma Github utilizando React, Styled Components
+e o acesso a API do Github.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🚀 Melhorias implementadas
+- [x] - Acesso direto a API do Github para exibição das informações em tempo real
+- [x] - Estilização com styled components
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 💻 Como usar o projeto
+Para gerar uma cópia do projeto e implementar as suas melhorias, esteja em um computador com Node Js instalado e siga as etapas abaixo:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1  clone o projeto com o comando 
+```
+git clone https://github.com/devggui/clone-github
+``` 
+2  Acesse o projeto pelo terminal com o comando 
+```
+cd clone-github
+```  
+3  Instale as dependências necessárias com o comando
+```
+npm install
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+4  Rode o projeto com o comando
+```
+npm start
+``` 
 
-### `npm run eject`
+## 🌐 Links úteis
+[ReactJS](https://react.dev)  
+[Styled Components](https://styled-components.com)  
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🧑‍💻 Guilherme Henrique
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/devggui)
+[<img src=" https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://gthub.com/devggui)
+[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](http://wa.me/5514998619263)
+[<img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" height="28" />](https://devggui.netlify.app)
